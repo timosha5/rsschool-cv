@@ -3,7 +3,7 @@
 * Location: Dnipro, Ukraine
 * Phone: +380 ** 24 129 37
 * Email: timosha1555@gmail.com
-* GitHub: [https://github.com/timosha5] (https://github.com/timosha5)
+* GitHub: [https://github.com/timosha5] [https://github.com/timosha5]
 # About Me
  I am in search of new knowledge and new experience. It is interesting to learn new things and how to understand how it works. I want to learn new horizons in IT.
 And I think my sides like responsibility and time management can help me move on.
